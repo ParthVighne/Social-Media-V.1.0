@@ -11,9 +11,9 @@ A simple social media app that displays posts, tags, number of likes etc. I made
 - Use various React Hooks
 
 ## Features - Create and Delete Posts
--Create Posts
--Add related tags
--Display number of likes
--Delete Post
--Seperate page to create a post
--All posts saved in local storage so they won't be lost after an accidental refresh
+- Create Posts
+- Add related tags
+- Display number of likes
+- Delete Post
+- Seperate page to create a post
+- All posts saved in local storage so they won't be lost after an accidental refresh
