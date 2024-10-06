@@ -1,8 +1,19 @@
-# React + Vite
+#Social Media App - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Made using React and Bootstrap.
 
-Currently, two official plugins are available:
+A simple social media app that displays posts, tags, number of likes etc. I made this to practice making, editing and saving JS objects in the local storage. Didn't make the UI very visually appealing tho.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Learnings from this project
+
+- Create react components
+- Incorporate Bootstrap CSS
+- Use various React Hooks
+
+##Features - Create and Delete Posts
+-Create Posts
+-Add related tags
+-Display number of likes
+-Delete Post
+-Seperate page to create a post
+-All posts saved in local storage so they won't be lost after an accidental refresh
