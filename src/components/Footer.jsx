@@ -6,17 +6,17 @@ const Footer = () => {
           <ul className="nav justify-content-center border-bottom pb-3 mb-3">
             <li className="nav-item">
               <a href="#" className="nav-link px-2 text-body-secondary">
-                Home
+                Terms of Service
               </a>
             </li>
             <li className="nav-item">
               <a href="#" className="nav-link px-2 text-body-secondary">
-                Features
+                Complaints
               </a>
             </li>
             <li className="nav-item">
               <a href="#" className="nav-link px-2 text-body-secondary">
-                Pricing
+                Careers
               </a>
             </li>
             <li className="nav-item">
@@ -30,7 +30,9 @@ const Footer = () => {
               </a>
             </li>
           </ul>
-          <p className="text-center text-body-secondary">© 2023 Company, Inc</p>
+          <p className="text-center text-body-secondary">
+            © 2023 Social Media Company, Inc
+          </p>
         </footer>
       </div>
     </>

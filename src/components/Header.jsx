@@ -21,28 +21,28 @@ const Header = () => {
             </a>
             <ul className="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
               <li>
-                <a href="#" className="nav-link px-2 text-secondary">
+                <a href="#" className="nav-link px-2 text-white">
                   Home
                 </a>
               </li>
               <li>
                 <a href="#" className="nav-link px-2 text-white">
-                  Features
+                  Messeges
                 </a>
               </li>
               <li>
                 <a href="#" className="nav-link px-2 text-white">
-                  Pricing
+                  Liked Posts
                 </a>
               </li>
               <li>
                 <a href="#" className="nav-link px-2 text-white">
-                  FAQs
+                  Archive
                 </a>
               </li>
               <li>
                 <a href="#" className="nav-link px-2 text-white">
-                  About
+                  Profile
                 </a>
               </li>
             </ul>
@@ -52,7 +52,7 @@ const Header = () => {
             >
               <input
                 type="search"
-                className="form-control form-control-dark text-bg-dark"
+                className="form-control form-control-dark text-bg-light"
                 placeholder="Search..."
                 aria-label="Search"
               />
