@@ -1,4 +1,4 @@
-#Social Media App - Frontend
+# Social Media App - Frontend React
 
 Made using React and Bootstrap.
 
@@ -10,7 +10,7 @@ A simple social media app that displays posts, tags, number of likes etc. I made
 - Incorporate Bootstrap CSS
 - Use various React Hooks
 
-##Features - Create and Delete Posts
+## Features - Create and Delete Posts
 -Create Posts
 -Add related tags
 -Display number of likes
